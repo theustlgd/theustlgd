@@ -1,7 +1,7 @@
 ## Olá, meu nome é Matheus Herminio 👋
 
 
-- 🌱 Estudando: Java
+- 🌱 Estudando: Python
 - 😄 Pronomes: ele/dele
 
 <div align="center">
