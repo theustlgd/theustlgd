@@ -1,29 +1,45 @@
-## Olá, meu nome é Matheus Herminio 👋
+# Matheus Herminio 👨🏼‍💻
+
+**`Desenvolvedor Back-End`**
+
+Me chamo Matheus Herminio, tenho 19 anos e sou da capital de São Paulo. Concluí o ensino médio na Etec Takashi Morita, com o curso técnico em Automação Industrial. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul. Desde pequeno eu tenho apego pela técnologia e venho compartilhando minha atual trajetória no meu linkedin "[Matheus Herminio](https://www.linkedin.com/in/matheus-herminio-0929a1392/)", onde posto meus certificados e atualizações sobre minha vida profissional.
 
 
-- 🌱 Estudando: Python
-- 😄 Pronomes: ele/dele
+  <a href="https://www.instagram.com/nztheuss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusherminio45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-herminio-0929a1392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theustlgd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theustlgd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
-</div>
+--- 
 
-##
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
+### 💻 Linguagens e Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  height="30" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
   <img width="12" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/> 
+  <img width="12" />
 
-  <a href="https://instagram.com/nz.theus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mherminio983@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-herminio-67b2262a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theustlgd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theustlgd&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=2" 
+/>
