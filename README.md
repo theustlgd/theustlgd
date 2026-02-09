@@ -22,24 +22,3 @@ Me chamo Matheus Herminio, tenho 19 anos e sou da capital de São Paulo. Conclu�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/> 
   <img width="12" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theustlgd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theustlgd&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=2" 
-/>
